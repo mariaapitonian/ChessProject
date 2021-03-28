@@ -1,0 +1,40 @@
+{
+        "UserPieces":
+                "WhiteTeam":{
+                        "King_W": "1e",
+                        "Queen_W": "1d",
+                        "Rook1_W": "1a",
+                        "Rook2_W": "1h",
+                        "Bishop1_W": "1c",
+                        "Bishop2_W": "1f",
+                        "Knight1_W": "1b",
+                        "Knight2_W": "1g",
+                        "Pawn1_W": "2a",
+                        "Pawn2_W": "2b",
+                        "Pawn3_W": "2c",
+                        "Pawn4_W": "2d",
+                        "Pawn5_W": "2e",
+                        "Pawn6_W": "2f",
+                        "Pawn7_W": "2g",
+                        "Pawn8_W": "2h"
+                }
+                "BlackTeam":{
+                        "King_B": "8e",
+                        "Queen_B": "8d",
+                        "Rook1_B": "8a",
+                        "Rook2_B": "8h",
+                        "Bishop1_B": "8c",
+                        "Bishop2_B": "8f",
+                        "Knight1_B": "8b",
+                        "Knight2_B": "8g",
+                        "Pawn1_B": "7a",
+                        "Pawn2_B": "7b",
+			"Pawn3_B": "7c",
+                        "Pawn4_B": "7d",
+                        "Pawn5_B": "7e",
+                        "Pawn6_B": "7f",
+                        "Pawn7_B": "7g",
+                        "Pawn8_B": "7h",
+		}
+	}
+}
