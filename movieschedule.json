@@ -1,0 +1,76 @@
+{
+	"user_info":{
+		"username":"",
+		"age": 0,
+		"gender": 0,
+		"fav_movies": [],
+		"fav_cast": [],
+		"fav_genre": []
+	},
+	"schedule":{
+		"monday":{
+			"movie": "",
+			"rating": 0
+		},
+		"tuesday":{
+			"movie": "",
+			"rating":0
+		},
+		"wednesday":{
+			"movie":"",
+			"rating":0
+		},
+		"thursday":{
+			"movie":"",
+			"rating":0
+		},
+		"friday":{
+			"movie":"",
+			"rating":0
+		},
+		"saturday":{
+			"movie":"",
+			"rating":0
+		},
+		"sunday":{
+			"movie":"",
+			"rating":0
+		}
+	},
+	"movies":{
+		"title":"",
+		"genre":"",
+		"topcast":[],
+		"similar_movies":[]
+	},
+	"genres":{
+		"comedy":{
+			"movienumber":0,
+			"averagerating":0
+		},
+		"horror":{
+			"movienumber":0,
+			"averagerating":0
+		},
+		"crime":{
+			"movienumber":0,
+			"averagerating":0
+		},
+		"action":{
+			"movienumber":0,
+			"averagerating":0
+		},
+		"drama":{
+			"movienumber":0,
+			"averagerating":0
+		},
+		"sci-fi":{
+			"movienumber":0,
+			"averagerating":0
+		}
+	}
+}
+
+
+
+
