@@ -1,0 +1,104 @@
+[
+  {
+    "username": "",
+    "age": 0,
+    "gender": "",
+    "fav_director": [],
+    "fav_genre": [],
+    "genres": [
+      {
+        "name": "Romance",
+        "movies": [],
+        "movie_number": 1,
+        "average_rating": 0
+      },
+      {
+        "name": "Crime",
+        "movies": [],
+        "movie_number": 1,
+        "average_rating": 0
+      },
+      {
+        "name": "Action",
+        "movies": [],
+        "movie_number": 1,
+        "average_rating": 0
+      },
+      {
+        "name": "Drama",
+        "movies": [],
+        "movie_number": 1,
+        "average_rating": 0
+      },
+      {
+        "name": "Sci-Fi and Fantasy",
+        "movies": [],
+        "movie_number": 1,
+        "average_rating": 0
+      },
+      {
+        "name": "Horror",
+        "movies": [],
+        "movie_number": 1,
+        "average_rating": 0
+      },
+      {
+        "name": "Comedy",
+        "movies": [],
+        "movie_number": 1,
+        "average_rating": 0
+      }
+    ]
+  },
+  {
+    "username": "Maria",
+    "age": 8,
+    "gender": "M",
+    "fav_director": [],
+    "fav_genre": [],
+    "genres": [
+      {
+        "name": "Romance",
+        "movies": [],
+        "movie_number": 1,
+        "average_rating": 4
+      },
+      {
+        "name": "Crime",
+        "movies": [],
+        "movie_number": 1,
+        "average_rating": 4
+      },
+      {
+        "name": "Action",
+        "movies": [],
+        "movie_number": 1,
+        "average_rating": 3
+      },
+      {
+        "name": "Drama",
+        "movies": [],
+        "movie_number": 1,
+        "average_rating": 4
+      },
+      {
+        "name": "Sci-Fi and Fantasy",
+        "movies": [],
+        "movie_number": 1,
+        "average_rating": 5
+      },
+      {
+        "name": "Horror",
+        "movies": [],
+        "movie_number": 1,
+        "average_rating": 3
+      },
+      {
+        "name": "Comedy",
+        "movies": [],
+        "movie_number": 1,
+        "average_rating": 3
+      }
+    ]
+  }
+]
