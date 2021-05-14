@@ -1,6 +1,9 @@
 Movie Recommending App using python and json
+
 Team: Maria Apitonian, Suren Chilingaryan
+
 Course: ENGS110A Introduction to Programming
+
 Instructor: Satenik Mnatsakanyan
 
 Description: This app recommends movies to users based on implicit and explicit genre preferences. The app asks users to register and 
