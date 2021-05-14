@@ -1,4 +1,4 @@
-Movie Recommending App using python and json
+Movie Recommending App using Python and JSON
 
 Team: Maria Apitonian, Suren Chilingaryan
 
