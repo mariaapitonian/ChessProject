@@ -3,101 +3,475 @@
     "username": "",
     "age": 0,
     "gender": "",
-    "fav_director": [],
-    "fav_genre": [],
-    "genres": [
+    "genre_history": [
       {
-        "name": "Romance",
+        "name": "",
         "movies": [],
-        "movie_number": 1,
-        "average_rating": 0
-      },
-      {
-        "name": "Crime",
-        "movies": [],
-        "movie_number": 1,
-        "average_rating": 0
-      },
-      {
-        "name": "Action",
-        "movies": [],
-        "movie_number": 1,
-        "average_rating": 0
-      },
-      {
-        "name": "Drama",
-        "movies": [],
-        "movie_number": 1,
-        "average_rating": 0
-      },
-      {
-        "name": "Sci-Fi and Fantasy",
-        "movies": [],
-        "movie_number": 1,
-        "average_rating": 0
-      },
-      {
-        "name": "Horror",
-        "movies": [],
-        "movie_number": 1,
-        "average_rating": 0
-      },
-      {
-        "name": "Comedy",
-        "movies": [],
-        "movie_number": 1,
         "average_rating": 0
       }
     ]
   },
   {
-    "username": "Maria",
-    "age": 8,
+    "username": "Suren",
+    "age": 19,
     "gender": "M",
-    "fav_director": [],
-    "fav_genre": [],
-    "genres": [
+    "genre_history": [
       {
         "name": "Romance",
         "movies": [],
-        "movie_number": 1,
-        "average_rating": 4
+        "average_rating": 3
       },
       {
         "name": "Crime",
-        "movies": [],
-        "movie_number": 1,
-        "average_rating": 4
+        "movies": [
+          {
+            "Film Name": "Goodfellas",
+            "Genre": "Crime",
+            "Director": "Martin Scorsese",
+            "Leading actors": " Frank Vincent, Joe Pesci, Lorraine Bracco, Ray Liotta, Robert De Niro",
+            "Year of release": "1990",
+            "Place of release": "USA"
+          }
+        ],
+        "average_rating": 7.5
       },
       {
         "name": "Action",
         "movies": [],
-        "movie_number": 1,
-        "average_rating": 3
+        "average_rating": 7
       },
       {
         "name": "Drama",
         "movies": [],
-        "movie_number": 1,
-        "average_rating": 4
-      },
-      {
-        "name": "Sci-Fi and Fantasy",
-        "movies": [],
-        "movie_number": 1,
         "average_rating": 5
       },
       {
+        "name": "Sci-Fi and Fantasy",
+        "movies": [
+          {
+            "Film Name": "ET",
+            "Genre": "Sci-Fi and Fantasy",
+            "Director": "Steven Spielberg",
+            "Leading actors": "Dee Wallace, Drew Barrymore, Henry Thomas, Peter Coyote",
+            "Year of release": "1982",
+            "Place of release": "USA"
+          }
+        ],
+        "average_rating": 3.5
+      },
+      {
         "name": "Horror",
-        "movies": [],
-        "movie_number": 1,
-        "average_rating": 3
+        "movies": [
+          {
+            "Film Name": "Vampyr",
+            "Genre": "Horror",
+            "Director": "Carl Theodor Dreyer",
+            "Leading actors": "Henriette G\u00e9rard, Henriette Gerard, Julian West, Sybille Schmitz",
+            "Year of release": "1932",
+            "Place of release": "Germany"
+          }
+        ],
+        "average_rating": 4.5
       },
       {
         "name": "Comedy",
         "movies": [],
-        "movie_number": 1,
+        "average_rating": 6
+      }
+    ]
+  },
+  {
+    "username": "MovieLover32",
+    "age": 23,
+    "gender": "M",
+    "genre_history": [
+      {
+        "name": "Romance",
+        "movies": [],
         "average_rating": 3
+      },
+      {
+        "name": "Crime",
+        "movies": [
+          {
+            "Film Name": "Double Indemnity",
+            "Genre": "Crime",
+            "Director": "Billy Wilder",
+            "Leading actors": "Porter Hall, Jean Heather, Byron Barr, Richard Gaines, John Philliber, Edward G.\nRobinson, Fred MacMurray and Barbara Stanwyck",
+            "Year of release": "1944",
+            "Place of release": "USA"
+          }
+        ],
+        "average_rating": 5.5
+      },
+      {
+        "name": "Action",
+        "movies": [],
+        "average_rating": 9
+      },
+      {
+        "name": "Drama",
+        "movies": [
+          {
+            "Film Name": "The Conformist",
+            "Genre": "Drama",
+            "Director": "Bernado Bertolucci",
+            "Leading actors": "Dominique Sanda, Gastone Moschin, Jean-Louis Trintignant, Louis Trintignant, Stefania Sandrelli",
+            "Year of release": "1970",
+            "Place of release": "Italy"
+          },
+          {
+            "Film Name": "There Will Be Blood",
+            "Genre": "Drama",
+            "Director": "Paul Thomas Anderson",
+            "Leading actors": " Daniel Day Lewis, Daniel Day-Lewis, Dillon Freasier, Kevin J O'Connor, Paul Dano",
+            "Year of release": "2007",
+            "Place of release": "USA"
+          }
+        ],
+        "average_rating": 8.0
+      },
+      {
+        "name": "Sci-Fi and Fantasy",
+        "movies": [],
+        "average_rating": 8
+      },
+      {
+        "name": "Horror",
+        "movies": [
+          {
+            "Film Name": "Audition",
+            "Genre": "Horror",
+            "Director": "Miike Takashi",
+            "Leading actors": "Eihi Shiina, Ishibashi Renji, Ishibashi Ryo, Matsuda Miyuki, Renji Ishibashi, Ryo Ishibashi, Shiina Eihi",
+            "Year of release": "1999",
+            "Place of release": "Korea"
+          }
+        ],
+        "average_rating": 8.5
+      },
+      {
+        "name": "Comedy",
+        "movies": [],
+        "average_rating": 3
+      }
+    ]
+  },
+  {
+    "username": "Maria",
+    "age": 19,
+    "gender": "F",
+    "genre_history": [
+      {
+        "name": "Romance",
+        "movies": [
+          {
+            "Film Name": "Hannah & Her Sisters",
+            "Genre": "Romance",
+            "Director": "Woody Allen ",
+            "Leading actors": "Barbara Hershey, Carrie Fisher, Dianne Wiest, Julie Kavner, Mia Farrow, Michael Caine, Woody Allen",
+            "Year of release": "1986",
+            "Place of release": "USA"
+          },
+          {
+            "Film Name": "Wall-E",
+            "Genre": "Romance",
+            "Director": "Andrew Stanton",
+            "Leading actors": "Ben Burtt, Fred Willard, Jeff Garlin, Kathy Najimy, Sigourney Weaver",
+            "Year of release": "2008",
+            "Place of release": "USA"
+          }
+        ],
+        "average_rating": 6.666666666666667
+      },
+      {
+        "name": "Crime",
+        "movies": [],
+        "average_rating": 7
+      },
+      {
+        "name": "Action",
+        "movies": [
+          {
+            "Film Name": "North by Northwest",
+            "Genre": "Action",
+            "Director": "Alfred Hitchcock",
+            "Leading actors": " Cary Grant, Eva Marie Saint, Eva Marie Saint, James Mason, Jessie Royce Landis, Leo G Carroll, Martin Landau",
+            "Year of release": "1959",
+            "Place of release": "USA"
+          }
+        ],
+        "average_rating": 7.0
+      },
+      {
+        "name": "Drama",
+        "movies": [
+          {
+            "Film Name": "Battleship Potemkin",
+            "Genre": "Drama",
+            "Director": "Sergei Eisenstein",
+            "Leading actors": "A Antonov, Alexandr Antonov, Grigori Alexandrov, Midhail Gomorov, Vladimir Barsky",
+            "Year of release": "1925",
+            "Place of release": "Soviet Union"
+          }
+        ],
+        "average_rating": 6.5
+      },
+      {
+        "name": "Sci-Fi and Fantasy",
+        "movies": [
+          {
+            "Film Name": "Dark Star",
+            "Genre": "Sci-Fi and Fantasy",
+            "Director": "John Carpenter",
+            "Leading actors": "Brian Narelle, Dan O'Bannon, Dre Pahich",
+            "Year of release": "1974",
+            "Place of release": "USA"
+          },
+          {
+            "Film Name": "Day the Earth Stood Still",
+            "Genre": "Sci-Fi and Fantasy",
+            "Director": "Robert Wise",
+            "Leading actors": "Hugh Marlowe, Lock Martin, Michael Rennie, Patricia Neal",
+            "Year of release": "1951",
+            "Place of release": "USA"
+          }
+        ],
+        "average_rating": 5.333333333333333
+      },
+      {
+        "name": "Horror",
+        "movies": [
+          {
+            "Film Name": "Let the Right One In",
+            "Genre": "Horror",
+            "Director": "Tomas Alfredson",
+            "Leading actors": " Henrik Dahl, Kare Hedebrant, Karin Bergquist, Lina Leandersson, Per Ragnar, Peter Carlberg",
+            "Year of release": "2008",
+            "Place of release": "Sweden"
+          }
+        ],
+        "average_rating": 8.5
+      },
+      {
+        "name": "Comedy",
+        "movies": [
+          {
+            "Film Name": "Dazed and Confused",
+            "Genre": "Comedy",
+            "Director": "Richard Linklater",
+            "Leading actors": "Adam Goldberg, Jason London, Joey Lauren Adams, Joey Lauren Adams, Milla Jovovich, Rory Cochrane, Shawn Andrew",
+            "Year of release": "1993",
+            "Place of release": "USA"
+          },
+          {
+            "Film Name": "Duck Soup",
+            "Genre": "Comedy",
+            "Director": "Leo McCarey",
+            "Leading actors": "Chico Marx, Groucho Marx, Harpo Marx, Margaret Dumont, The Marx Brothers, Zeppo Marx",
+            "Year of release": "1933",
+            "Place of release": "USA"
+          }
+        ],
+        "average_rating": 5.666666666666667
+      }
+    ]
+  },
+  {
+    "username": "Hellen",
+    "age": 30,
+    "gender": "F",
+    "genre_history": [
+      {
+        "name": "Romance",
+        "movies": [
+          {
+            "Film Name": "Before Sunset",
+            "Genre": "Romance",
+            "Director": "Richard Linklater",
+            "Leading actors": "Ethan Hawke and Julie Delpy",
+            "Year of release": "2004",
+            "Place of release": "USA"
+          },
+          {
+            "Film Name": "Dr Zhivago",
+            "Genre": "Romance",
+            "Director": "David Lean",
+            "Leading actors": "Geraldine Chaplin, Julie Christie, Omar Sharif",
+            "Year of release": "1965",
+            "Place of release": "USA"
+          }
+        ],
+        "average_rating": 8.666666666666666
+      },
+      {
+        "name": "Crime",
+        "movies": [],
+        "average_rating": 3
+      },
+      {
+        "name": "Action",
+        "movies": [],
+        "average_rating": 6
+      },
+      {
+        "name": "Drama",
+        "movies": [
+          {
+            "Film Name": "Days of Heaven",
+            "Genre": "Drama",
+            "Director": "Terrence Malik",
+            "Leading actors": "Brooke Adams, Richard Gere, Sam Shepard",
+            "Year of release": "1978",
+            "Place of release": "USA"
+          },
+          {
+            "Film Name": "L\u2019Atalante",
+            "Genre": "Drama",
+            "Director": "Jean Vigo",
+            "Leading actors": "Dita Parlo, Jean Daste, Michel Simon",
+            "Year of release": "1934",
+            "Place of release": "France"
+          }
+        ],
+        "average_rating": 5.666666666666667
+      },
+      {
+        "name": "Sci-Fi and Fantasy",
+        "movies": [],
+        "average_rating": 7
+      },
+      {
+        "name": "Horror",
+        "movies": [
+          {
+            "Film Name": "The Cabinet of Dr Caligari",
+            "Genre": "Horror",
+            "Director": "Robert Wiene",
+            "Leading actors": "Conrad Veidt, Lil Dagover, Werner Krauss",
+            "Year of release": "1920",
+            "Place of release": "Germany"
+          },
+          {
+            "Film Name": "Dracula   (1958)",
+            "Genre": "Horror",
+            "Director": "Terence Fisher",
+            "Leading actors": "Christopher Lee, Melissa Stribling, Michael Gough, Peter Cushing",
+            "Year of release": "1958",
+            "Place of release": "UK"
+          }
+        ],
+        "average_rating": 6.666666666666667
+      },
+      {
+        "name": "Comedy",
+        "movies": [
+          {
+            "Film Name": "Election",
+            "Genre": "Comedy",
+            "Director": "Alexander Payne",
+            "Leading actors": "Chris Klein, Matthew Broderick, Reese Witherspoon",
+            "Year of release": "1999",
+            "Place of release": "USA"
+          }
+        ],
+        "average_rating": 7.0
+      }
+    ]
+  },
+  {
+    "username": "Elliot",
+    "age": 9,
+    "gender": "M",
+    "genre_history": [
+      {
+        "name": "Romance",
+        "movies": [
+          {
+            "Film Name": "Brief Encounter",
+            "Genre": "Romance",
+            "Director": "David Lean ",
+            "Leading actors": "Celia Johnson, Cyril Raymond, Stanley Holloway, Trevor Howard",
+            "Year of release": "1945",
+            "Place of release": "UK"
+          }
+        ],
+        "average_rating": 2.0
+      },
+      {
+        "name": "Crime",
+        "movies": [],
+        "average_rating": 6
+      },
+      {
+        "name": "Action",
+        "movies": [
+          {
+            "Film Name": " Bullitt",
+            "Genre": "Action",
+            "Director": "Peter Yates",
+            "Leading actors": "Jacqueline Bisset, Robert Vaughn, Steve McQueen",
+            "Year of release": "1968",
+            "Place of release": "USA"
+          }
+        ],
+        "average_rating": 9.0
+      },
+      {
+        "name": "Drama",
+        "movies": [
+          {
+            "Film Name": "Mulholland Dr",
+            "Genre": "Drama",
+            "Director": "David Lynch",
+            "Leading actors": "Justin Theroux, Laura Harring, Naomi Watts",
+            "Year of release": "2001",
+            "Place of release": "France"
+          }
+        ],
+        "average_rating": 5.5
+      },
+      {
+        "name": "Sci-Fi and Fantasy",
+        "movies": [
+          {
+            "Film Name": "Close Encounters",
+            "Genre": "Sci-Fi and Fantasy",
+            "Director": "Steven Spielberg",
+            "Leading actors": "Melinda Dillon, Richard Dreyfuss",
+            "Year of release": "1977",
+            "Place of release": "USA"
+          }
+        ],
+        "average_rating": 9.0
+      },
+      {
+        "name": "Horror",
+        "movies": [
+          {
+            "Film Name": "The Exorcist",
+            "Genre": "Horror",
+            "Director": "William Friedkin",
+            "Leading actors": "Ellen Burstyn, Linda Blair, Max von Sydow",
+            "Year of release": "1973",
+            "Place of release": "USA"
+          }
+        ],
+        "average_rating": 5.0
+      },
+      {
+        "name": "Comedy",
+        "movies": [
+          {
+            "Film Name": "Monty Python\u2019s Life of Brian",
+            "Genre": "Comedy",
+            "Director": "Terry Jones",
+            "Leading actors": "Eric Idle, Graham Chapman, John Cleese, Michael Palin, Terry Gilliam, Terry Jones",
+            "Year of release": "1979",
+            "Place of release": "UK"
+          }
+        ],
+        "average_rating": 8.5
       }
     ]
   }
